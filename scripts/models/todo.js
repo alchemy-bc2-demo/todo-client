@@ -1,6 +1,7 @@
 'use strict';
 
-const API_URL = 'http://localhost:3000';
+// const API_URL = 'http://localhost:3000';
+const API_URL = 'https://alchemy-bc2-todo.herokuapp.com';
 
 (function (module) {
 
